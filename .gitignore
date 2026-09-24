@@ -1,0 +1,3 @@
+# nunca versionar fonte em texto puro aqui
+*.src.lua
+/fonte/
